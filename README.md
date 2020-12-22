@@ -2,6 +2,7 @@
 
 Python Birds
 ===========
+Aluno: Fernando Nunes
 
 Essa versão é a mais simples. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
 
